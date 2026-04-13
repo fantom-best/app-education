@@ -6,10 +6,10 @@ export default function HomeScreen() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>📚 App Education</Text>
+      <Text style={styles.title}>📚 INTEC-LEARNING</Text>
 
       <Text style={styles.subtitle}>
-        Bienvenue dans ton application de cours et quiz
+        Bienvenue dans ton application de cours et quiz INTEC-SUP
       </Text>
 
       <Pressable

@@ -4,6 +4,7 @@ import { ThemedText } from "@/components/themed-text";
 import { ThemedView } from "@/components/themed-view";
 import { useThemeColor } from "@/hooks/use-theme-color";
 import { useRouter } from "expo-router";
+import { blue } from "react-native-reanimated/lib/typescript/Colors";
 
 export default function Quiz() {
   const [currentQuestion, setCurrentQuestion] = useState(0);
