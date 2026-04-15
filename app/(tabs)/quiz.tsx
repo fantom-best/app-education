@@ -298,7 +298,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
   },
   nextButton: {
-    padding: 15,
+    padding: 14,
     borderRadius: 10,
     marginTop: 20,
     alignItems: "center",
